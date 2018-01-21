@@ -76,5 +76,5 @@ for _ in range(100):
     print(name+"\n", description.replace(" NL ", "\n"))
     print()
 
-
+input("Press Enter to close")
 
